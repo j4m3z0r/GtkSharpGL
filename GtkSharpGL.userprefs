@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="GtkSharpGL/GtkSharpGL.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GtkSharpGL/OpenTK.dll.config">
+    <Files>
+      <File FileName="GtkSharpGL/Program.cs" Line="1" Column="1" />
+      <File FileName="GtkSharpGL/packages.config" Line="1" Column="1" />
+      <File FileName="GtkSharpGL/OpenTK.dll.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/james/junkcode/GtkSharpGL/GtkSharpGL/MainView.cs" line="20" column="1" />
+      <Breakpoint file="/home/james/junkcode/GtkSharpGL/GtkSharpGL/MainView.cs" line="15" column="1" />
+      <Breakpoint file="/home/james/junkcode/GtkSharpGL/GtkSharpGL/MainView.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
